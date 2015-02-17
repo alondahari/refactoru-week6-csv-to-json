@@ -1,0 +1,22 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "convert csv to json",
+  "main": "csv-to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazzdragon/refactoru-week6-csv-to-json.git"
+  },
+  "author": "Jazz Dragon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazzdragon/refactoru-week6-csv-to-json/issues"
+  },
+  "homepage": "https://github.com/jazzdragon/refactoru-week6-csv-to-json",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
